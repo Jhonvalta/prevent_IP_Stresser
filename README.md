@@ -1,4 +1,4 @@
-# prevent IP Stresser
+# Prevent IP Stresser
 this PHP Code help you to have a simple rate limit option to protect the site against DDoS or brute force attacks from IP Stresser
 It is suitable to Prevent against IP Stresser and booter scripts that want to increase the consumption of your site's resources with a "Slow" method.
 
